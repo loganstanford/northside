@@ -1,0 +1,33 @@
+.adImage {
+    width: 1080px;
+    height: 960px;
+  }
+
+  .screen-height {
+    height: 1080px;
+    width: 1080px;
+  }
+  
+  .hours-block {
+    width: 1080px;
+    height: 780px;
+  }
+
+  .title-block {
+    width: 1080px;
+    height: 200px;
+  }
+  
+  p {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    letter-spacing: 0.02em;
+  }
+
+  body {
+    height: 1080px;
+    width: 1080px;
+    rotate: 270deg;
+  }
+
+ 
